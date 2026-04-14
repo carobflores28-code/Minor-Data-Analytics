@@ -1,7 +1,3 @@
-Aquí va el README listo para copiar y pegar directamente en GitHub:
-
----
-
 # 🛒 Walmart Sales Analysis
 
 > Análisis predictivo y segmentación de tiendas Walmart aplicando CRISP-DM | Minor en Análisis y Gestión de Datos – Universidad Privada Boliviana
